@@ -1,2 +1,4 @@
 Text of file 1
 Text of file 1
+
+Text of file 1
